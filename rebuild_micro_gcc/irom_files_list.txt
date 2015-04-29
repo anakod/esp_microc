@@ -1,0 +1,8 @@
+_powisf2
+_powidf2
+_muldc3
+_mulsc3
+_multc3
+_mulxc3
+_divdf3
+_divdc3
